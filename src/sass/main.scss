@@ -1,0 +1,14 @@
+@import "./base/reset";
+@import "./utils/vars";
+@import "./base/common";
+@import "./base/container";
+@import "./utils/mixins";
+@import "./utils/placeholdetrs";
+
+@import "./sections/header";
+@import "./sections/hero";
+@import "./sections/skills";
+@import "./sections/about";
+@import "./sections/pricing";
+@import "./sections/contact";
+@import "./sections/footer";
